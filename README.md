@@ -11,7 +11,7 @@
 Hi, I'm Sajeevan Puvikaran,
 
 - 🌱 I'm Data Scientist and Python Developer at AXA Direct France.
-- 📝 
+- 📝 Computer Science Engineer and MSc in Applied Maths, Data Science at École Polytechnique & Paris Saclay
 - 📫 How to reach me or 💬 Want to know more about me : Reach me on my [LinkedIn](https://www.linkedin.com/in/sajeevan-puvikaran)
 
 
